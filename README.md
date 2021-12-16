@@ -27,12 +27,12 @@ trips and that will keep utilization higher during peak times.
 The bikes are used most frequently during the commuting times, however on the weekend 
 there is a good utilization throughout the day.
 
-![Utilization Weekday](/images/tripWeekday.png)
+![Utilization Weekday](/images/tripWorkday.png)
 
 This heatmap shows that most of the bike usages is by male subscribers.  Utilization 
 of the bikes is pretty high all days of the week as compared to all others. 
  
-![Bike Trip by User Type](/images/customerType-gender.png)
+![Bike Trip by User Type](/images/CustomerType-gender.png)
 
 This visualization also shows that most bike rides are from subscribers and the trips 
 are shorter in length.  
