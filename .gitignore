@@ -1,2 +1,4 @@
 #Do not add CSV data to the repo
 201908-citibike-tripdata.csv
+# this is the file I created with the dateTime information using pandas
+201908-citibike-tripdata_HHmm.csv
