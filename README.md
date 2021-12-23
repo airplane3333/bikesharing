@@ -41,3 +41,13 @@ are shorter in length.
 
 
 ## Summary
+I'm not sure a comparison of bike sharing in New York City can be made with that of 
+Des Moines Iowa.  In New York there is a large population of people that rely on public 
+transportation, where other cities including Des Moines still use personal vehicles to 
+travel around town. 
+
+Tableau is a powerful tool to visualize large data sets. The GUI was easy to use and 
+importing data from text or JSON is simple. It takes a little practice to understand how 
+to represent data in the different visualization types that make it simple for the analysis 
+to understand.        
+  
